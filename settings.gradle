@@ -1,0 +1,3 @@
+include ':app', ':android-gif-drawable'
+include ':libraries:android-gif-drawable'
+project(':android-gif-drawable').projectDir = new File('libraries/android-gif-drawable')

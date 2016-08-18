@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AlxGifHelper.iml" filepath="$PROJECT_DIR$/AlxGifHelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/android-gif-drawable/AlxGifHelper-android-gif-drawable.iml" filepath="$PROJECT_DIR$/libraries/android-gif-drawable/AlxGifHelper-android-gif-drawable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/libraries.iml" filepath="$PROJECT_DIR$/libraries/libraries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/android-gif-drawable/libraries-android-gif-drawable.iml" filepath="$PROJECT_DIR$/libraries/android-gif-drawable/libraries-android-gif-drawable.iml" />
+    </modules>
+  </component>
+</project>
