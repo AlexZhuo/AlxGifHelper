@@ -6,3 +6,8 @@
 AlxGifHelper\libraries\android-gif-drawable\src\main\jni\Application.mk
 中APP_ABI := armeabi x86
 使用NDK11及以上可添加64位arm，x86和mipsCPU的支持
+
+效果展示：
+
+![demo](https://github.com/AlexZhuo/AlxGifHelper/blob/master/gif_demo1.gif)
+![demo](https://github.com/AlexZhuo/AlxGifHelper/blob/master/gif_demo2.gif)
